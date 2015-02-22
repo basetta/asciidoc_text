@@ -10,4 +10,5 @@ v.0.1 2015-02-22
 :includedir: _includes
 :Author: Patrick Martini
 
+include::{includedir}/variables.adoc[tags=css-all]
 {description}
