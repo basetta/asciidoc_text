@@ -12,3 +12,4 @@ Optional version, optional date
 Author is {author}
 
 Variable1 value is {variable1}
+
