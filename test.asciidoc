@@ -6,3 +6,6 @@ Optional version, optional date
 :Email:     <AlternativeWayToSetOptional@author.email>
 :Date:      AlternativeWayToSetOptional date
 :Revision:  AlternativeWayToSetOptional version
+
+
+Author is {author}
