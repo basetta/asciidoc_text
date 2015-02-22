@@ -1,0 +1,14 @@
+= AsciiDoc Stupid Example
+Patrick Martini
+v.0.1 2015-02-22
+:page-layout: base
+:page-javascripts: [view-result]
+:description: Just a stupid test
+:keywords: AsciiDoc, Asciidoctor, syntax, reference, cheatsheet
+:compat-mode!:
+:imagesdir: ../images
+:includedir: _includes
+:Author: Patrick Martini
+
+include::{includedir}/variables.adoc[tags=css-all]
+{description}
