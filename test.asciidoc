@@ -1,3 +1,4 @@
+include::variables.asciidoc[]
 Main Header
 ===========
 Optional Author Name <optional@author.email>
@@ -6,3 +7,8 @@ Optional version, optional date
 :Email:     <AlternativeWayToSetOptional@author.email>
 :Date:      AlternativeWayToSetOptional date
 :Revision:  AlternativeWayToSetOptional version
+
+
+Author is {author}
+
+Variable1 value is {variable1}
